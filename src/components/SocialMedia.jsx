@@ -11,9 +11,10 @@ function SocialMedia() {
     <ul className="home-about-social-links">
       <li className="social-icons">
         <a
-          href="https://github.com/sunilyadav8"
+          href="https://github.com/kirankumar3117"
           target="_blank"
           rel="noreferrer"
+        
           className="icon-colour  home-social-icons"
         >
           <AiFillGithub className="social-icon" />
@@ -21,9 +22,8 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.linkedin.com/in/sunilkumaryadav84/"
-          target="_blank"
-          rel="noreferrer"
+          href="https://www.linkedin.com/kirankumar3117"
+         
           className="icon-colour  home-social-icons"
         >
           <FaLinkedinIn className="social-icon" />
@@ -31,7 +31,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.instagram.com/sunil.yadav84/"
+          href="https://www.instagram.com/ch.kirankumar311"
           target="_blank"
           rel="noreferrer"
           className="icon-colour home-social-icons"
@@ -41,7 +41,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="mailto:sunilyadav8404@gmail.com"
+          href="mailto:ch.kirankumar311@gmail.com"
           target="_blank"
           rel="noreferrer"
           className="icon-colour home-social-icons"

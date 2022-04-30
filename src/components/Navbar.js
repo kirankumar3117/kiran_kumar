@@ -37,7 +37,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="https://github.com/kirankumar3117" target="_blank">
-          <MdDeveloperMode style={{ marginBottom: "2px" }} /> Logicstime.com
+          <MdDeveloperMode style={{ marginBottom: "2px" }} /> 𝕶𝖎𝖗𝖆𝖓
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -92,7 +92,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="http://www.logicstime.com/"
+                href="https://medium.com/@ch.kirankumar311"
                 target="_blank"
                 rel="noreferrer"
               >

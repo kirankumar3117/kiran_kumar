@@ -8,13 +8,13 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Kiran Kumar </span>
-            from <span className="purple"> Lucknow, India.</span>
+            from <span className="purple"> Vijayawada, India.</span>
             <br />
-            Software Engineer who loves to transform ideas into reality using
+            Web Developer who loves to transform ideas into reality using
             code.
             <br />
             Motivated designer and developer with experience creating
-            custom websites with ReactJs, JavaScript, HTML5, CSS3. Shopify app using ReactJs, Javascript, Polaris, Graphql, nodejs, Koajs
+            custom websites with ReactJs, JavaScript, HTML5, CSS3, MongoDB, Express, NodeJS. 
             and Mobile App using React-native.
             <br />
             Apart from coding, some other activities that I love to do!
